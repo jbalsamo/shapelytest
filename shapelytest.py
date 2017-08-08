@@ -8,5 +8,5 @@ import shapely
 
 cur_objects = json.loads(open('curations.json').read())
 
-print cur_objects[1]["geometry"]
+cur_objects[1]["geometry"]
 
