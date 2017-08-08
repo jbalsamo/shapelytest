@@ -10,3 +10,7 @@ cur_objects = json.loads(open('curations.json').read())
 
 cur_objects[1]["geometry"]
 
+#----------------------------------
+#
+#
+#----------------------------------
